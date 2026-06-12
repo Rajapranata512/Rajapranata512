@@ -1,6 +1,6 @@
 <!-- 
-Halo! Ini adalah kode untuk mempercantik GitHub Anda. 
-Silakan salin semua kode di bawah ini.
+Hello! Here is the updated code for your GitHub Profile README.
+Please copy all the code below.
 -->
 
 <div align="center">
@@ -29,13 +29,14 @@ Silakan salin semua kode di bawah ini.
   </a>
 </div>
 
-## 👨‍💻 Tentang Saya
-Halo! Saya adalah mahasiswa tingkat akhir program gelar ganda (**Computer Science & Statistics**) di BINUS University. Saya memiliki minat besar dalam menggabungkan pengembangan aplikasi web yang modern dengan analisis data yang mendalam.
+## 👨‍💻 About Me
+Hello! I am a final-year dual-degree student (**Computer Science & Statistics**) at BINUS University. I have a strong passion for combining modern web application development with in-depth data analytics to solve complex problems.
 
-- 🔭 Saat ini sedang mengerjakan **Asosiasi Alumni DRM BINUS Website** (Laravel 12, Filament, Tailwind) & **IDX Trading Lab** (Next.js).
-- 🌱 Fokus mendalami **Arsitektur Web Scalable** dan **Predictive Analytics**.
-- 💡 Pengalaman riset pada **Canonical Correlation Analysis** (CCA) menggunakan R dan Python.
-- 💬 Tanya saya tentang: **Laravel, Next.js, Python, Tableau, atau SQL**.
+- 💼 **Experience:** Web Developer Intern at **Doctor Research Management Association, BINUS University** (Feb - Aug 2026).
+- 🔭 **Currently Working On:** The official **Alumni DRM BINUS Website** (Laravel 12, Filament, Tailwind) & **IDX Trading Lab** (Next.js).
+- 🌱 **Currently Focusing On:** Scalable Web Architectures and Predictive Analytics.
+- 💡 **Research Experience:** Conducted Canonical Correlation Analysis (CCA) using R and Python.
+- 💬 **Ask Me About:** Laravel, Next.js, Python, Tableau, or SQL.
 
 ---
 
