@@ -1,8 +1,3 @@
-<!-- 
-Hello! Here is the ULTIMATE EYE-CATCHING code for your GitHub Profile README.
-Copy everything below and paste it into your GitHub.
--->
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Raja%20Adi%20Pranata&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20Data%20Analyst&descAlignY=70&descSize=20" width="100%" />
 </div>
@@ -13,6 +8,7 @@ Copy everything below and paste it into your GitHub.
   <a href="https://cv-next-pied.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=14b8a6" /></a>
   <a href="https://www.linkedin.com/in/raja-adi-pranata-507704251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=14b8a6" /></a>
   <a href="mailto:raja.pranata@binus.ac.id"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=14b8a6" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rajapranata512&label=Profile%20Views&color=14b8a6&style=for-the-badge" alt="Profile views" />
 </div>
 
 <p align="center">
@@ -23,15 +19,15 @@ Copy everything below and paste it into your GitHub.
 
 ---
 
-<table>
+<table border="0" style="border: none;">
   <tr>
     <td width="60%">
-      <h2 align="center">👨‍💻 About Me</h2>
+      <h2 align="center">👨💻 About Me</h2>
       <p>I am a final-year dual-degree student in <strong>Computer Science & Statistics</strong> at BINUS University, passionate about the intersection of software engineering and predictive analytics.</p>
       <ul>
         <li>💼 <strong>Experience:</strong> Web Developer Intern at <i>DRM Association, BINUS</i>.</li>
         <li>🔭 <strong>Currently Building:</strong> <a href="https://asosiasidrm.id/">Alumni DRM Portal</a> & <a href="https://idx-trading-lab.vercel.app/">IDX Trading Lab</a>.</li>
-        <li>🔬 <strong>Research:</strong> Published analyses using <i>Canonical Correlation Analysis (CCA)</i>.</li>
+        <li>🔬 <strong>Research:</strong> Published analyses using <i>Canonical Correlation Analysis (CCA)</i> & ARIMA.</li>
       </ul>
     </td>
     <td width="40%" align="center">
@@ -53,6 +49,7 @@ Copy everything below and paste it into your GitHub.
 
 | 🌟 Project | 🏷️ Category | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
+| **[Jakarta Traffic Intelligence](https://github.com/Rajapranata512/jakarta-traffic-intelligence)** | Research / Data App | `FastAPI` `Python` `ARIMA` `Vanilla JS` |
 | **[Asosiasi Alumni DRM](https://asosiasidrm.id/)** | Full-Stack Web | `Laravel 12` `Filament` `Tailwind` |
 | **[IDX Trading Lab](https://idx-trading-lab.vercel.app/)** | Data/Web App | `Next.js` `TypeScript` `Tailwind` |
 | **[From Words to Wages (ICAMEMPET)](https://cv-next-pied.vercel.app/)** | Research Paper | `Machine Learning` `NLP` `Python` |
@@ -63,7 +60,7 @@ Copy everything below and paste it into your GitHub.
 
 <br />
 
-<table width="100%">
+<table width="100%" border="0" style="border: none;">
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Rajapranata512&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
@@ -78,6 +75,17 @@ Copy everything below and paste it into your GitHub.
     </td>
   </tr>
 </table>
+
+## 🐍 Activity Snake
+
+<div align="center">
+  <i>Watch the snake eat my contributions! 🍎</i><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajapranata512/Rajapranata512/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajapranata512/Rajapranata512/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajapranata512/Rajapranata512/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer" width="100%" />
