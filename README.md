@@ -10,14 +10,6 @@ Copy everything below and paste it into your GitHub.
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rajapranata512&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
   <a href="https://cv-next-pied.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=14b8a6" /></a>
   <a href="https://www.linkedin.com/in/raja-adi-pranata-507704251/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=14b8a6" /></a>
   <a href="mailto:raja.pranata@binus.ac.id"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=14b8a6" /></a>
