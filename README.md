@@ -74,20 +74,11 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
 
-<h2 align="center">📈 GitHub Analytics, Activity & Trophies</h2>
+<h2 align="center">📈 GitHub Analytics & Activity</h2>
 
 <!-- Visualisasi Grafik Aktivitas 31 Hari -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajapranata512&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br />
-
-<!-- Deretan Trofi -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rajapranata512&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
 </div>
 
 <br />
