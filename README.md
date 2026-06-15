@@ -17,7 +17,9 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
 
 <table border="0" style="border: none;">
   <tr>
@@ -36,7 +38,11 @@
   </tr>
 </table>
 
-## ⚡ Technical Arsenal
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<h2 align="center">⚡ Technical Arsenal</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,r,html,css&perline=10" /><br />
@@ -45,7 +51,11 @@
 
 <br />
 
-## 🏆 Featured Projects & Research
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<h2 align="center">🏆 Featured Projects & Research</h2>
 
 | 🌟 Project | 🏷️ Category | 🛠️ Tech Stack |
 | :--- | :--- | :--- |
@@ -57,6 +67,20 @@
 | **[Executive Dashboards](https://cv-next-pied.vercel.app/)** | Data Analytics | `Tableau` `SQL` |
 | **[Foodies Recipe Platform](https://foodies.infinityfreeapp.com/)** | Full-Stack Web | `Laravel 11` `MySQL` |
 | **[Palorant Web Experience](https://rajapranata512.github.io/palorant-website/)** | Front-End Web | `HTML` `CSS` `JS` `Figma` |
+
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<h2 align="center">📈 GitHub Analytics & Trophies</h2>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Rajapranata512&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
 <br />
 
@@ -76,15 +100,24 @@
   </tr>
 </table>
 
-## 🐍 Activity Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+</div>
+
+<h2 align="center">🐍 Activity Snake & Daily Quote</h2>
 
 <div align="center">
-  <i>Watch the snake eat my contributions! 🍎</i><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajapranata512/Rajapranata512/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajapranata512/Rajapranata512/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rajapranata512/Rajapranata512/output/github-contribution-grid-snake.svg">
   </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Programming Quote" />
 </div>
 
 <div align="center">
